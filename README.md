@@ -25,7 +25,7 @@ Steggy is a lightweight, multi-feature steganography and digital forensics web a
     - [Testing](#testing)
 - [Features](#features)
 - [Contributing](#contributing)
-- [Contributors](#contributors)
+- [Authors](#authors)
 
 ---
 
@@ -139,11 +139,10 @@ Run the bash:
 
 ---
 
-## Contributors
+## Authors
 
 Thank you very much to these awesome people:
-![Contributors](https://contrib.rocks/image?repo=unknownman77/Steggy)
- 
+![GitHub contributors](https://img.shields.io/github/contributors/unknownman77/Steggy)
 
 <div align="left"><a href="#top">⬆ Return</a></div>
 
