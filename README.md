@@ -17,7 +17,7 @@ Steggy is a lightweight, multi-feature steganography and digital forensics web a
 
 ## Table of Contents
 
-- [Overview](#overview)
+- [Motivation](#motivation)
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
@@ -25,7 +25,7 @@ Steggy is a lightweight, multi-feature steganography and digital forensics web a
     - [Testing](#testing)
 - [Features](#features)
 - [Contributing](#contributing)
-- [Acknowledgment](#acknowledgment)
+- [Contributors](#contributors)
 
 ---
 
@@ -139,9 +139,11 @@ Run the bash:
 
 ---
 
-## Acknowledgments
+## Contributors
 
-- Credit `contributors`, `inspiration`, `references`, etc.
+Thank you very much to these awesome people:
+![Contributors](https://contrib.rocks/image?repo=unknownman77/Steggy)
+ 
 
 <div align="left"><a href="#top">⬆ Return</a></div>
 
