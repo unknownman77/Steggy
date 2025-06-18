@@ -2,9 +2,9 @@
 <div align="left">
 
 
-# STEGGY
+# STEGGY: One Stop Steganography and Forensic Website.
 
-<img src="static/background.png" alt="Steggy" width="200"/>
+<img src="static/background.png" alt="Steggy" width="max"/>
 
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white" alt="Markdown">
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=flat&logo=GNU-Bash&logoColor=white" alt="GNU%20Bash">
