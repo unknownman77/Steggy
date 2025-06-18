@@ -6,6 +6,8 @@
 
 <img src="static/background.png" alt="Steggy" width="max"/>
 
+Steggy is a lightweight, multi-feature steganography and digital forensics web application built for researchers, students, and cybersecurity enthusiasts. It integrates popular tools under one intuitive web interface to detect, extract, and analyze hidden data in various file formats.
+
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white" alt="Markdown">
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=flat&logo=GNU-Bash&logoColor=white" alt="GNU%20Bash">
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white" alt="Docker">
@@ -27,9 +29,11 @@
 
 ---
 
-## Overview
+## Motivation
 
-Steggy is a lightweight, multi-feature steganography and digital forensics web application built for researchers, students, and cybersecurity enthusiasts. It integrates popular tools under one intuitive web interface to detect, extract, and analyze hidden data in various file formats.
+As Cyber Security students, we recognize the growing digital trust crisis in Indonesia—marked by frequent account breaches, data leaks, and the uncontrolled spread of personal information. This alarming reality motivated us to develop Steggy, a web-based platform that empowers users to securely conceal sensitive messages within digital media such as images, audio, and video.
+
+By combining steganography and cryptography, Steggy ensures that hidden messages are not only invisible but also protected from unauthorized access. With no installation required, no storage limits, and a user-friendly interface, Steggy aims to be a practical, accessible tool that raises cybersecurity awareness and serves as an educational resource for digital forensics enthusiasts and CTF communities.
 
 ---
 
