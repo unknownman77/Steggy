@@ -142,7 +142,11 @@ Run the bash:
 ## Authors
 
 Thank you very much to these awesome people:
-![GitHub contributors](https://img.shields.io/github/contributors/unknownman77/Steggy)
+- Jose Ernesto ([jose](https://github.com/unknownman77))
+- Dion Ferdinand ([dion](https://github.com/hazy0189))
+- I Komang Gde Acintya ([acin](https://github.com/0xjnz))
+- Rafael Clifford ([clifford](https://github.com/SushiMaker1))
+
 
 <div align="left"><a href="#top">⬆ Return</a></div>
 
