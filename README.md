@@ -142,10 +142,10 @@ Run the bash:
 ## Authors
 
 Thank you very much to these awesome people:
-- ([unknownman77](https://github.com/unknownman77))
-- ([hazy](https://github.com/hazy0189))
-- ([notCarrot](https://github.com/0xjnz))
-- ([SushiMaker1](https://github.com/SushiMaker1))
+- [unknownman77](https://github.com/unknownman77)
+- [hazy](https://github.com/hazy0189)
+- [notCarrot](https://github.com/0xjnz)
+- [SushiMaker1](https://github.com/SushiMaker1)
 
 
 <div align="left"><a href="#top">⬆ Return</a></div>
